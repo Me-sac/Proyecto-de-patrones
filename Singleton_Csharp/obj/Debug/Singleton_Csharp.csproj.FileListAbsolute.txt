@@ -1,0 +1,10 @@
+C:\Users\Misael\source\repos\Singleton_Csharp\obj\Debug\Singleton_Csharp.csprojAssemblyReference.cache
+C:\Users\Misael\source\repos\Singleton_Csharp\obj\Debug\Singleton_Csharp.Properties.Resources.resources
+C:\Users\Misael\source\repos\Singleton_Csharp\obj\Debug\Singleton_Csharp.csproj.GenerateResource.cache
+C:\Users\Misael\source\repos\Singleton_Csharp\obj\Debug\Singleton_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Misael\source\repos\Singleton_Csharp\bin\Debug\Singleton_Csharp.exe.config
+C:\Users\Misael\source\repos\Singleton_Csharp\bin\Debug\Singleton_Csharp.exe
+C:\Users\Misael\source\repos\Singleton_Csharp\bin\Debug\Singleton_Csharp.pdb
+C:\Users\Misael\source\repos\Singleton_Csharp\obj\Debug\Singleton_Csharp.exe
+C:\Users\Misael\source\repos\Singleton_Csharp\obj\Debug\Singleton_Csharp.pdb
+C:\Users\Misael\source\repos\Singleton_Csharp\obj\Debug\Singleton_Csharp.welcome.resources
