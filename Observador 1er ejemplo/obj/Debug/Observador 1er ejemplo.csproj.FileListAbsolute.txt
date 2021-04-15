@@ -1,0 +1,10 @@
+C:\Users\Misael\source\repos\Observador 1er ejemplo\bin\Debug\Observador 1er ejemplo.exe.config
+C:\Users\Misael\source\repos\Observador 1er ejemplo\bin\Debug\Observador 1er ejemplo.exe
+C:\Users\Misael\source\repos\Observador 1er ejemplo\bin\Debug\Observador 1er ejemplo.pdb
+C:\Users\Misael\source\repos\Observador 1er ejemplo\obj\Debug\Observador 1er ejemplo.csprojAssemblyReference.cache
+C:\Users\Misael\source\repos\Observador 1er ejemplo\obj\Debug\Observador_1er_ejemplo.Form1.resources
+C:\Users\Misael\source\repos\Observador 1er ejemplo\obj\Debug\Observador_1er_ejemplo.Properties.Resources.resources
+C:\Users\Misael\source\repos\Observador 1er ejemplo\obj\Debug\Observador 1er ejemplo.csproj.GenerateResource.cache
+C:\Users\Misael\source\repos\Observador 1er ejemplo\obj\Debug\Observador 1er ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Misael\source\repos\Observador 1er ejemplo\obj\Debug\Observador 1er ejemplo.exe
+C:\Users\Misael\source\repos\Observador 1er ejemplo\obj\Debug\Observador 1er ejemplo.pdb
